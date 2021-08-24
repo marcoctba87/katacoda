@@ -1,4 +1,3 @@
->- ls -la
->- `docker ps -a`{{execute}}
-
+`ls -la`{{execute}}
+`docker ps -a`{{execute}}
 `top`{{execute}}
